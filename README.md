@@ -24,6 +24,6 @@ npx expo start
 # 5. imagem do resultado
 
 
-![Descrição da imagem](print.jpg)
+![tela](printtela.jpeg)
 
 
