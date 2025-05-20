@@ -24,5 +24,5 @@ npx expo start
 # 5. imagem do resultado
 
 
-<img src="./WhatsApp Image 2025-05-19 at 21.15.35.jpeg" alt="App rodando no celular" width="300" />
+<img src="./atividade3/img/print.jpeg" alt="App rodando no celular" width="300" />
 
