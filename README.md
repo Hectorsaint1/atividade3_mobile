@@ -24,5 +24,6 @@ npx expo start
 # 5. imagem do resultado
 
 
-<img src="./print.jpg" alt="App rodando no celular" width="300" />
+![Descrição da imagem](print.jpg)
+
 
