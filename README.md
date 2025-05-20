@@ -24,6 +24,6 @@ npx expo start
 # 5. imagem do resultado
 
 
-![Descrição da imagem](print.jpg)
+![Descrição da imagem](https://github.com/Hectorsaint1/atividade3_mobile/blob/main/print.jpg)
 
 
