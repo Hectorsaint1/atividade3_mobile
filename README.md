@@ -24,5 +24,5 @@ npx expo start
 # 5. imagem do resultado
 
 
-<img src="./atividade3/img/print.jpeg" alt="App rodando no celular" width="300" />
+<img src="./print.jpeg" alt="App rodando no celular" width="300" />
 
