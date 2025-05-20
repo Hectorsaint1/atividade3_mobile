@@ -23,7 +23,7 @@ npx expo start
 
 # 5. imagem do resultado
 
-![tela](https://github.com/Hectorsaint1/atividade3_mobile/blob/main/printtela.jpeg)
+![tela](printtela.jpeg)
 
 
 
