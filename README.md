@@ -23,7 +23,7 @@ npx expo start
 
 # 5. imagem do resultado
 
-
 ![tela](printtela.jpeg)
+
 
 
